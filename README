@@ -1,0 +1,21 @@
+
+Hack the F1
+-----------
+
+Starting a project to reverse engineer the F1 protocol and build a couple of
+tools to open up Traktor to MIDI control:
+
+   1. A software shim between Traktor and the F1 to extract MIDI from the
+      HID packets going to the F1 device and insert HID packets from MIDI
+      inputs back into the stream.
+
+   2. Firmware hacks to allow devices to pretend to be an F1 and receive and
+      send events to Traktor.
+
+Join us on the WIKI and over email. We're looking for talented coders with
+experience in USB-MIDI and HID device descriptors, hardware drivers on Mac
+or Windows, installer packages to make the hacks simple to use. Contact us
+to join up.
+      
+Open Standards forever!
+2012-05-30      
